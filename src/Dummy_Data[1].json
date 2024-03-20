@@ -1,0 +1,63 @@
+{
+    "Items Wanted": [
+      {
+        "title": "Textbooks Needed",
+        "description": "Looking for textbooks for Biology 101, willing to pay a fair price.",
+        "price": "Negotiable",
+        "contact": "email: example@example.com"
+      },
+      {
+        "title": "Used Laptop Wanted",
+        "description": "In search of a used laptop in good working condition. Preferably with at least 8GB RAM and SSD storage.",
+        "price": "Negotiable",
+        "contact": "phone: +1234567890"
+      },
+      {
+        "title": "Tutor Needed for Economics",
+        "description": "Seeking a tutor to help with Economics coursework. Must have expertise in micro and macroeconomics.",
+        "price": "Negotiable",
+        "contact": "email: somebody@example.com"
+      }
+    ],
+    "Items for Sale": [
+      {
+        "title": "Graphing Calculator for Sale",
+        "description": "Selling a TI-84 graphing calculator in excellent condition. Perfect for calculus and physics courses.",
+        "price": "$70",
+        "contact": "phone: +1234567890"
+      },
+      {
+        "title": "Bedroom Furniture Set",
+        "description": "Selling a complete bedroom furniture set including bed frame, mattress, dresser, and nightstand. Like new condition.",
+        "price": "$500",
+        "contact": "email: example@example.com"
+      },
+      {
+        "title": "Bicycle for Sale",
+        "description": "Selling a gently used mountain bike. Great for commuting to campus or exploring nearby trails.",
+        "price": "$150",
+        "contact": "phone: +1234567890"
+      }
+    ],
+    "Academic Services": [
+      {
+        "title": "Proofreading and Editing Services",
+        "description": "Offering professional proofreading and editing services for essays, research papers, and assignments. Guaranteed quality and timely delivery.",
+        "price": "$20 per page",
+        "contact": "email: example@example.com"
+      },
+      {
+        "title": "Math Tutoring Services",
+        "description": "Experienced math tutor offering one-on-one tutoring sessions for algebra, calculus, and statistics. Flexible scheduling.",
+        "price": "$30 per hour",
+        "contact": "phone: +1234567890"
+      },
+      {
+        "title": "Computer Programming Help",
+        "description": "Providing assistance with computer programming assignments and projects. Proficient in languages like Python, Java, and C++.",
+        "price": "$8 per hour",
+        "contact": "email: example@example.com"
+      }
+    ]
+  }
+  
